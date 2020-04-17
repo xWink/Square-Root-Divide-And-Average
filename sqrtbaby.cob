@@ -1,10 +1,3 @@
-*> Name: Shawn Kaplan
-*> ID: 0966499
-*> Email: skaplan@uoguelph.ca
-*>
-*> This is a program that prompts the user for a number they wish to
-*> square root. It then calculates the square root using the divide
-*> and average algorithm in the paragraphs below.
 identification division.
 program-id. sqrtbaby.
 
