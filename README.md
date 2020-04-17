@@ -9,7 +9,7 @@ A Cobol square root calculator using the Divide and Average algorithm
 
 1. Compile with `cobc -x -free sqrtbaby.cob`
 2. Run with `./sqrtbaby`
-3. Input a number to square root or 0 to exit
+3. Input a positive real number to square root or 0 to exit
 4. Program will calculate square root with up to 1000 iterations of the algorithm. On success, the program outputs the square root. Otherwise, it outputs an abort message.
 
 #### Example:
@@ -21,7 +21,7 @@ Output: `Square root: 3.162278`
 
 1. Compile with `cobc -x -free sqrtbabyex.cob squareroot.cob`
 2. Run with `./sqrtbabyex`
-3. Input a number to square root or 0 to exit
+3. Input a positive real number to square root or 0 to exit
 4. Program will calculate square root with up to 1000 iterations of the algorithm. On success, the program outputs the square root. Otherwise, it outputs an abort message.
 
 #### Example:
