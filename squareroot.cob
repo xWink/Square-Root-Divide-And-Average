@@ -1,9 +1,3 @@
-*> Name: Shawn Kaplan
-*> ID: 0966499
-*> Email: skaplan@uoguelph.ca
-*>
-*> This is a function that calculates the square root of a value, "z",
-*> up to a precision, "precision", and stores the result in "y".
 identification division.
 program-id. squareroot.
 
